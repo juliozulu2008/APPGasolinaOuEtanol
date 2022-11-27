@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GasolinaOuEtanol</string>
+    <string name="txt_info_gasolina">Informe o valor da Gasolina:</string>
+    <string name="txt_boatao">Calcular</string>
+</resources>
